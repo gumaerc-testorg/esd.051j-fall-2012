@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 18c9593e-319e-dae8-0d72-de49534baf31
 ---
@@ -52,20 +54,6 @@ This course is required for the [Gordon-MIT Engineering Leadership Program Year 
 ### Offered
 
 Every semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with even rows of long tables, each with about nine chairs. Six chalkboards at the front; projector mounted on the ceiling.]({{< resource_file 83814ce7-8773-436a-8e69-d886a7a70067 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-      
-    
-    This course met in a large classroom with tiered seating and six chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

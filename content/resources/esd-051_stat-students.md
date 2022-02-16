@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-051j-engineering-innovation-and-design-fall-2012/ca1a25435e6aa25171d215ed86da3d65_ESD-051_stat-students.png
+file: /media/courses/esd-051j-engineering-innovation-and-design-fall-2012/ca1a25435e6aa25171d215ed86da3d65_ESD-051_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: ESD-051_stat-students.png
 uid: ca1a2543-5e6a-a251-71d2-15ed86da3d65
