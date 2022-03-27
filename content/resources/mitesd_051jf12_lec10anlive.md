@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: ccb69fa2-6392-7ade-d774-c12a6733de1e
 resourcetype: Document
 title: 'Lecture 10: Live Weather Data with Angel'
 uid: 5f49e395-8310-3984-46b6-8d733c38c1b7

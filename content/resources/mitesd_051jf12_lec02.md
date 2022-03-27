@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: ccb69fa2-6392-7ade-d774-c12a6733de1e
 resourcetype: Document
 title: 10 Step Design Process; Dieter Rams
 uid: 14535d88-6827-ff8e-3482-729867d69587

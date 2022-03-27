@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: ccb69fa2-6392-7ade-d774-c12a6733de1e
 resourcetype: Document
 title: 'Lecture 10: Angel Review'
 uid: b0a81b59-ee54-7895-dfd6-fec52b542c18

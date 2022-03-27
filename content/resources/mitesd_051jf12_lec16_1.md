@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
+parent_uid: ccb69fa2-6392-7ade-d774-c12a6733de1e
 resourcetype: Document
 title: 'Lecture 16: Innovation and Ethics; Build a Company (Part 1)'
 uid: f2d654fc-48f0-26de-db61-20b66aeecf68

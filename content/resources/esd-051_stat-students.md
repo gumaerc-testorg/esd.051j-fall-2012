@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 18c9593e-319e-dae8-0d72-de49534baf31
 resourcetype: Image
 title: ESD-051_stat-students.png
 uid: ca1a2543-5e6a-a251-71d2-15ed86da3d65
