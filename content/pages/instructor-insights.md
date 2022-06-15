@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 18c9593e-319e-dae8-0d72-de49534baf31
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _ESD.051 Engineering Innovation and Design_ as it was taught by Blade Kotelly and Prof. Joel Schindall in Fall 2012.
 
@@ -16,8 +17,7 @@ The course is a project-based seminar in innovative design thinking. Lectures fo
 
 The [Gordon-MIT Engineering Leadership Program](http://gelp.mit.edu/) created this course as a part of a larger engineering-leadership program for undergraduates.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -29,19 +29,17 @@ As part of the larger Gordon Engineering Leadership curriculum, students will ta
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-In the following short videos, Blade Kotelly and Prof. Joel Schindall discuss various aspects of how they taught _ESD.051 Engineering Innovation and Design_.
+_In the following short videos, Blade Kotelly and Prof. Joel Schindall discuss various aspects of how they taught_ ESD.051 Engineering Innovation and Design.
 
-*   [Origins of ESD.051 Engineering Innovation and Design]({{< baseurl >}}/resources/origins-of-esd-051-engineering-innovation-and-design-1)
-*   [Teaching Design Thinking]({{< baseurl >}}/resources/teaching-design-thinking)
-*   [What Happens in Class?]({{< baseurl >}}/resources/what-happens-in-class-1)
-*   [Interacting with Students Online]({{< baseurl >}}/resources/interacting-with-students-online)
-*   [Grading a Design Course]({{< baseurl >}}/resources/grading-a-design-course)
+- {{% resource_link baa63270-fb3f-19da-173a-59db92f31b56 "Origins of ESD.051 Engineering Innovation and Design" %}}
+- {{% resource_link 41b3be43-38e2-3901-586a-93f8c2d01fb7 "Teaching Design Thinking" %}}
+- {{% resource_link c614d4c9-a094-829c-b171-38761af39ad1 "What Happens in Class?" %}}
+- {{% resource_link 51d80506-cd0a-4d55-2bce-911e6aea50fd "Interacting with Students Online" %}}
+- {{% resource_link 4f58504f-5903-b133-992a-0fdf78a2f9e1 "Grading a Design Course" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -57,8 +55,7 @@ Every semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -67,12 +64,13 @@ The students' grades were based on the following activities:
 - 55% Projects
 - 10% Attendance and Participation
 
-[Watch Prof. Schindall discuss grading in this design course]({{< baseurl >}}/resources/grading-a-design-course).
+{{% resource_link 4f58504f-5903-b133-992a-0fdf78a2f9e1 "Watch Prof. Schindall discuss grading in this design course" %}}.
 
-Student Information
--------------------
+## Student Information
 
-![On average, 52 students take this course each time it is offered.]({{< resource_file ca1a2543-5e6a-a251-71d2-15ed86da3d65 >}})
+### Enrollment
+
+52 students
 
 ### Breakdown by Year
 
@@ -92,21 +90,18 @@ The class needs a certain number of students to foster good interactions for dis
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 9 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met twice a week for two hours per session; 26 sessions total.
-*   Class was often structured to be a mix of lecture and small group discussion and debrief in order to help the students practice what they were learning.
-*   Week 10 class sessions were devoted to individual presentations; week 15 class sessions were devoted to group presentations.
-*   This course included guest lectures from Sanjay Sarma, Garrett Harker, and Steven Spear.
+- Met twice a week for two hours per session; 26 sessions total.
+- Class was often structured to be a mix of lecture and small group discussion and debrief in order to help the students practice what they were learning.
+- Week 10 class sessions were devoted to individual presentations; week 15 class sessions were devoted to group presentations.
+- This course included guest lectures from Sanjay Sarma, Garrett Harker, and Steven Spear.
 
-Out of Class
-------------
+### Out of Class
 
-*   Students completed ten [homework assignments]({{< baseurl >}}/pages/homework), an [individual project]({{< baseurl >}}/pages/projects), and a [group project]({{< baseurl >}}/pages/projects).
-*   Students were given the primary instructor’s cell phone number and e-mail address, and they were encouraged to ask questions and contact the instructor or teaching assistants any time. Students have never abused this privilege. Students used the teaching assistant staff extensively to get feedback about homework. There were generally staff members awake at any time of day or night, which helped students get help right when they needed it.
+- Students completed ten {{% resource_link c3a3632f-bc90-2334-a8f7-d3a17dea9d6e "homework assignments" %}}, an {{% resource_link 7b8fccb6-66ce-bcd5-bd13-45f263238c62 "individual project" %}}, and a {{% resource_link 7b8fccb6-66ce-bcd5-bd13-45f263238c62 "group project" %}}.
+- Students were given the primary instructor’s cell phone number and e-mail address, and they were encouraged to ask questions and contact the instructor or teaching assistants any time. Students have never abused this privilege. Students used the teaching assistant staff extensively to get feedback about homework. There were generally staff members awake at any time of day or night, which helped students get help right when they needed it.
