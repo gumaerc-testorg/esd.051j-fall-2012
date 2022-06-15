@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides lecture notes, supporting files, and video lectures
+  of the second and third sessions of the course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -46,7 +48,7 @@ SUPPORTING FILES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec01 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec01)
+{{% resource_link 2248b77d-e571-b8e6-3069-24bf6c5fffaa "Lec01 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,12 +59,12 @@ Introduction
 {{< tdopen >}}
 
 
-[10 Step Design Process; Dieter Rams]({{< baseurl >}}/resources/session-2-10-step-design-process-dieter-rams)
+{{% resource_link d81ebefd-6e73-dd9e-b36b-2a6859cbd769 "10 Step Design Process; Dieter Rams" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec02  (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec02)
+{{% resource_link 14535d88-6827-ff8e-3482-729867d69587 "Lec02  (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,12 +75,12 @@ Introduction
 {{< tdopen >}}
 
 
-[Research; Stakeholder Analysis]({{< baseurl >}}/resources/session-3-research-and-stakeholder-analysis)
+{{% resource_link 7681512c-511e-5b65-570f-ba8965fe7a13 "Research; Stakeholder Analysis" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec03 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec03)
+{{% resource_link cbe497a4-5983-4700-33bf-23d1bab77605 "Lec03 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +92,7 @@ Introduction
 Articulating Design
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec04 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec04)
+{{% resource_link 08c7bb95-be21-bae3-2728-8650b266e31c "Lec04 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +104,7 @@ Articulating Design
 Psychology
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec05 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec05)
+{{% resource_link 8ad2e762-4bd3-d8aa-cbb4-e3eded8d80e5 "Lec05 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +116,7 @@ Psychology
 Psychology (Cont'd)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec06 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec06)
+{{% resource_link f2a78d5e-ee40-c87b-e54c-430d235273c5 "Lec06 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Psychology (Cont'd)
 Dialogue Systems Technology
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec07 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec07)
+{{% resource_link ed90d065-49d4-970d-8113-8577d5391bd9 "Lec07 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +140,7 @@ Dialogue Systems Technology
 Usability
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec08 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec08)
+{{% resource_link 94945a34-1a11-f64a-1d8b-4d5a56b073fe "Lec08 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +152,7 @@ Usability
 Branding
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec09 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec09)
+{{% resource_link dc747008-33a3-5192-caf3-61090d434d90 "Lec09 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,15 +166,15 @@ Dialogue System Design
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lec10 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10)
+{{% resource_link a33d9168-a7ed-28bf-0e05-40cbed8e5522 "Lec10 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Angel Review (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anrev)
+{{% resource_link b0a81b59-ee54-7895-dfd6-fec52b542c18 "Angel Review (PDF - 1.2MB)" %}}
 
-[Live Weather Data with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10anlive)
+{{% resource_link 5f49e395-8310-3984-46b6-8d733c38c1b7 "Live Weather Data with Angel (PDF)" %}}
 
-[Recording Audio (PDF - 1.2MB)]({{< baseurl >}}/resources/mitesd_051jf12_lec10recau)
+{{% resource_link cf42ea8b-6b41-74d3-79ed-d5fd1acd033d "Recording Audio (PDF - 1.2MB)" %}}
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Texting with Angel (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec10txtang)
+{{% resource_link "ea454057-a660-8ee3-b2ab-e978e245d350" "Texting with Angel (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -192,7 +194,7 @@ Dialogue System Design
 Creativity
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec11 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec11)
+{{% resource_link e6d6e5eb-e986-d41f-3341-11b01a9e22ad "Lec11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +206,7 @@ Creativity
 Project Management
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec12 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec12)
+{{% resource_link 11de5556-cada-96c6-f0a4-5293549110ed "Lec12 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +232,7 @@ Presentation Skills
 {{< tdopen >}}
 
 
-[Lec14 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec14_2)
+{{% resource_link 053460b0-1e26-cefd-26e9-768dd1945dfa "Lec14 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -244,7 +246,7 @@ Presentation Skills
 Group Project Success
 {{< tdclose >}}
 {{< tdopen >}}
-[Lec15 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec15prteam)
+{{% resource_link 25f4f6cb-655f-3459-48a2-477d960ad557 "Lec15 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,9 +264,9 @@ Innovation and Ethics; Build a Company
 {{< tdopen >}}
 
 
-[Lec16 Part1 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec16_1)
+{{% resource_link f2d654fc-48f0-26de-db61-20b66aeecf68 "Lec16 Part1 (PDF)" %}}
 
-[Lec16 Part 2 (PDF)]({{< baseurl >}}/resources/mitesd_051jf12_lec16_2)
+{{% resource_link 451b9da4-4268-76d4-926f-1e662b7ca357 "Lec16 Part 2 (PDF)" %}}
 
 
 {{< tdclose >}}

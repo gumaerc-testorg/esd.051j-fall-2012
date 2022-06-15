@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-051j-engineering-innovation-and-design-fall-2012/293fa4eaf9dd57aaab6b8080cf94b84c_CzBufqJ5kME.vtt
+file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/293fa4eaf9dd57aaab6b8080cf94b84c_CzBufqJ5kME.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

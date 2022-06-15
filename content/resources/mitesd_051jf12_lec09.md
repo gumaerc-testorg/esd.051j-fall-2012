@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-051j-engineering-innovation-and-design-fall-2012/dc74700833a35192caf361090d434d90_MITESD_051JF12_Lec09.pdf
+file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/dc74700833a35192caf361090d434d90_MITESD_051JF12_Lec09.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
