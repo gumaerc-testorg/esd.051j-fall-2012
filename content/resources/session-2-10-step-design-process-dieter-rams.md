@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Lecture 2 slides (PDF)](http://ocw2.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/lecture-notes-and-videos/MITESD_051JF12_Lec02.pdf)'
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 In this course, students will learn the 10-step design process and explore how to apply this process to various design projects via working on real-life examples with peers in class.
-
-
 

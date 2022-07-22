@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture 3 slides (PDF)](http://ocw2.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/lecture-notes-and-videos/MITESD_051JF12_Lec03.pdf)'
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Students continue to learn how to achieve good design with Dieter Rams' 10 Principles of Good Design. Students will also practice how to do a stakeholder analysis for a design project.
-
-
 
