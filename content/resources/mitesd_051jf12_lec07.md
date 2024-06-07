@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/ed90d06549d4970d81138577d5391bd9_MITESD_051JF12_Lec07.pdf
+file_size: 634317
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

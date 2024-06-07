@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding research;
   stakeholder analysis.
 file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/cbe497a45983470033bf23d1bab77605_MITESD_051JF12_Lec03.pdf
+file_size: 379806
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
