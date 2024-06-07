@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding articulating
   design.
 file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/08c7bb95be21bae327288650b266e31c_MITESD_051JF12_Lec04.pdf
+file_size: 649733
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

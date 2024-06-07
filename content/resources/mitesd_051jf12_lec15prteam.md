@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding group project
   success.
 file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/25f4f6cb655f345948a2477d960ad557_MITESD_051JF12_Lec15PrTeam.pdf
+file_size: 607281
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
