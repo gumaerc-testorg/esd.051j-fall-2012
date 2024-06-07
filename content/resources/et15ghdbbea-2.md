@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/c43e631a914558c19c8ae4c2032f8c51_ET15GHDbbeA.vtt
+file_size: 3687
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
