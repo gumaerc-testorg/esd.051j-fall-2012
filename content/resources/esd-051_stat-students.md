@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/ca1a25435e6aa25171d215ed86da3d65_ESD-051_stat-students.png
+file: /ol-ocw-studio-app/courses/esd-051j-engineering-innovation-and-design-fall-2012/ca1a25435e6aa25171d215ed86da3d65_ESD-051_stat-students.png
 file_size: 2834
 file_type: image/png
 image_metadata:

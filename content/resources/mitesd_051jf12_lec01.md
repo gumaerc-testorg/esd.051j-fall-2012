@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding introduction.
-file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/2248b77de571b8e6306924bf6c5fffaa_MITESD_051JF12_Lec01.pdf
+file: /ol-ocw-studio-app/courses/esd-051j-engineering-innovation-and-design-fall-2012/2248b77de571b8e6306924bf6c5fffaa_MITESD_051JF12_Lec01.pdf
 file_size: 934260
 file_type: application/pdf
 learning_resource_types: []
