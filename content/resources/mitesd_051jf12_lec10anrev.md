@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-051j-engineering-innovation-and-design-fall-2012/b0a81b59ee547895dfd6fec52b542c18_MITESD_051JF12_Lec10AnRev.pdf
+file: /courses/esd-051j-engineering-innovation-and-design-fall-2012/b0a81b59ee547895dfd6fec52b542c18_MITESD_051JF12_Lec10AnRev.pdf
 file_size: 1106990
 file_type: application/pdf
 learning_resource_types: []
