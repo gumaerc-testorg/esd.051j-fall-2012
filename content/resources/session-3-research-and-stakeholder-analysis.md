@@ -8,7 +8,8 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture 3 slides (PDF)](http://ocw2.mit.edu/courses/engineering-systems-division/esd-051j-engineering-innovation-and-design-fall-2012/lecture-notes-and-videos/MITESD_051JF12_Lec03.pdf)'
+optional_text: '{{% resource_link "ed17e27b-c057-4462-93f6-db684c9c4710" "Lecture
+  3 slides (PDF)" %}}'
 parent_title: Lecture Notes and Videos
 parent_type: CourseSection
 related_resources_text: ''
