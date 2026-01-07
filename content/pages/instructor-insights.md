@@ -15,7 +15,7 @@ This page focuses on the course _ESD.051 Engineering Innovation and Design_ as i
 
 The course is a project-based seminar in innovative design thinking. Lectures focus on the iterative design process and techniques to enhance creative analysis. Students use this process to design and implement robust voice recognition applications using a simple web-based system. They also give presentations and receive feedback to sharpen their communication skills for high emotional and intellectual impact. Guest lectures illustrate multidisciplinary approaches to design thinking.
 
-The {{% resource_link "c4decc8b-7225-4229-b017-98da367f8338" "Gordon-MIT Engineering Leadership Program" %}} created this course as a part of a larger engineering-leadership program for undergraduates.
+The [Gordon-MIT Engineering Leadership Program](http://gelp.mit.edu/) created this course as a part of a larger engineering-leadership program for undergraduates.
 
 ## Course Outcomes
 
@@ -47,7 +47,7 @@ None
 
 ### Requirements Satisfied
 
-This course is required for the {{% resource_link "05bdc812-11b2-4649-a224-12b68f0f1be7" "Gordon-MIT Engineering Leadership Program Year One" %}}.
+This course is required for the [Gordon-MIT Engineering Leadership Program Year One](http://gelp.mit.edu/students/about-gel-year-one).
 
 ### Offered
 
