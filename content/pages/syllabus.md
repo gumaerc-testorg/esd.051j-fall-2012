@@ -19,12 +19,12 @@ Description
 
 Learn to produce great designs, be a more effective engineer, and communicate with high emotional and intellectual impact. This project based course gives students the ability to understand, contextualize, and analyze engineering designs and systems. By learning and applying design thinking, students will more effectively solve problems in any domain. Lectures focus on teaching a tested, iterative design process as well as techniques to sharpen creative analysis. Guest lectures from all disciplines illustrate different approaches to design thinking. This course develops students' skills to conceive, organize, lead, implement, and evaluate successful projects in any engineering discipline. Additionally, students learn how to give compelling in-person presentations. Open to all majors, all years.
 
-This course is the core requirement in the {{% resource_link "c4decc8b-7225-4229-b017-98da367f8338" "Gordon-MIT Engineering Leadership Program" %}}.
+This course is the core requirement in the [Gordon-MIT Engineering Leadership Program](http://gelp.mit.edu/).
 
 Recommended Reading
 -------------------
 
-Kotelly, Blade. _The Art and Business of Speech Recognition: Creating the Noble Voice._ Addison-Wesley Professional, 2003. ISBN: 9780321154927. \[Preview with {{% resource_link "43ec2f59-306c-4505-977c-af01f2b30d56" "Google Books" %}}\]
+Kotelly, Blade. _The Art and Business of Speech Recognition: Creating the Noble Voice._ Addison-Wesley Professional, 2003. ISBN: 9780321154927. \[Preview with [Google Books](http://books.google.com/books?id=VFwaIMJ6pLoC&pg=PAfrontcover#v=onepage)\]
 
 Grading Policy
 --------------
